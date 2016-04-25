@@ -1,0 +1,25 @@
+div container{padding: 10px;}
+.layout-transparent {
+      background: url('pic/header.jpg') center / cover;
+    }
+.mytitle {font-size: 50px;}
+header a {color: #DDDDDD;}	
+header a:hover {color: #AAAAAA;}
+header b {color: #7A0099;}
+.drawer_title {
+	height: 20%;
+	text-align: center;
+	padding-top: 10%;
+	background: #A500CC;
+	color: #FFF;
+}
+.mytab {background-color: #A500CC;}
+.myparagraph {min-height:400px;}
+.first-card {margin-left: 8%; min-height: 200px;}
+.card1_title {color: #FFF;}
+.first-card .mdl-card__supporting-text {color: #EEE;}
+.second-card {margin-right: 8%;}
+.card2_title h3{color: #FFF;}
+.card2_title .mdl-card__supporting-text {color: #EEE;}
+.text-center {text-align: center;}
+.myfoot b {font-size: 40px;}
